@@ -1,0 +1,45 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/b/projects/5exploration/marsim_fuelus_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/b/projects/6tools/ws_livox/devel/include/**",
+        "/home/b/projects/2mapping/fast_lio2_ws/devel/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/swarm_exploration/active_perception/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/swarm_exploration/bspline/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/swarm_exploration/bspline_opt/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/cascadePID/include/**",
+        "/home/b/projects/2mapping/fast_lio2_ws/src/direct_lidar_odometry/include/**",
+        "/home/b/projects/4cloud_seg/test_seg_ws/src/estimate_edges/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/swarm_exploration/exploration_manager/include/**",
+        "/home/b/projects/2mapping/fast_lio2_ws/src/FAST_LIO/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/swarm_exploration/utils/lkh_mtsp_solver/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/swarm_exploration/utils/lkh_ovrp_solver/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/swarm_exploration/utils/lkh_tsp_solver/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/local_sensing/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/mars_drone_sim/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/swarm_exploration/path_searching/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/swarm_exploration/plan_env/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/swarm_exploration/plan_manage/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/swarm_exploration/poly_traj/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/Utils/pose_utils/include/**",
+        "/home/b/projects/2mapping/fast_lio2_ws/src/PV-LIO/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/Utils/mars_quadrotor_msgs/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/swarm_exploration/traj_utils/include/**",
+        "/home/b/projects/5exploration/marsim_fuelus_ws/src/MARSIM/Utils/uav_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

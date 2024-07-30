@@ -1,0 +1,34 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/b/projects/5exploration/marsim_fuelus_ws/devel/lib/python3/dist-packages",
+        "/home/b/projects/6tools/ws_livox/devel/lib/python3/dist-packages",
+        "/home/b/projects/2mapping/fast_lio2_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/b/projects/5exploration/marsim_fuelus_ws/devel/lib/python3/dist-packages",
+        "/home/b/projects/6tools/ws_livox/devel/lib/python3/dist-packages",
+        "/home/b/projects/2mapping/fast_lio2_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "files.associations": {
+        "*.ipp": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "cmath": "cpp",
+        "random": "cpp",
+        "core": "cpp",
+        "numeric": "cpp",
+        "limits": "cpp",
+        "array": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "*.tcc": "cpp"
+    }
+}
